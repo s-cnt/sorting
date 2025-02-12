@@ -33,10 +33,10 @@ Press SPACE to randomize matrix.
 
 ### Installation
 
-`go install github.com/sjpau/sorts@latest`
+`go install github.com/s-cnt/sorting@latest`
 
 ### Compile manually
 
-`go get github.com/sjpau/sorts`
+`go get github.com/s-cnt/sorting`
 
 `go build .` in the code directory
