@@ -1,4 +1,4 @@
-module github.com/sjpau/sorts
+module github.com/s-cnt/sorting
 
 go 1.18
 
